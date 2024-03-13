@@ -18,7 +18,7 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 ## Tecnologías
 Estoy familiarizado/a con una variedad de tecnologías, incluyendo pero no limitado a:
 
-- 💻 Lenguajes de programación: JavaScript, Java, C++
+- 💻 Lenguajes de programación: JavaScript, Python, C++
 - 🌐 Desarrollo web: HTML, CSS, JavaScript, React
 - 🛢️ Bases de datos: SQL
 - ⚙️ Herramientas: Git
